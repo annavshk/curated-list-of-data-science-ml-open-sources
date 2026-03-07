@@ -1,4 +1,4 @@
-# curated-list-of-data-science-ml-open-sources
+# Curated list of data science and ml open sources
 
 https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video_galleries/video-lectures/
 https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/
