@@ -14,4 +14,9 @@ n | name| link|  short overview
 9|Mathematics for Machine Learning|[math for ML](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/pages/lecture-notes/)|-
 10|Mathematics for Computer Science|[math for CS](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/lists/lecture-notes/)|-
 11|Mathematics in toys and games|[math in toys and games](https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/pages/lecture-notes/)|-
-
+12|Algorithmic aspects of ML |[Algos for ML](https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/pages/lecture-notes/)|
+13|-|[Advanced Algorithms](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/pages/lecture-notes/)|
+14|-|[Design and Analysis of algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/pages/lecture-notes/)|
+15|-|[Statistical Learning Theory](https://ocw.mit.edu/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/pages/lecture-notes/)|
+16|-|[Mathematical Stats](https://ocw.mit.edu/courses/18-655-mathematical-statistics-spring-2016/pages/lecture-notes/)|
+17|-|[Probability](https://ocw.mit.edu/courses/18-175-theory-of-probability-spring-2014/pages/lecture-slides/)|
