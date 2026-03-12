@@ -20,3 +20,4 @@ n | name| link|  short overview
 15|-|[Statistical Learning Theory](https://ocw.mit.edu/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/pages/lecture-notes/)|
 16|-|[Mathematical Stats](https://ocw.mit.edu/courses/18-655-mathematical-statistics-spring-2016/pages/lecture-notes/)|
 17|-|[Probability](https://ocw.mit.edu/courses/18-175-theory-of-probability-spring-2014/pages/lecture-slides/)|
+18|Statistics for Applications |[Statistics](https://ocw.mit.edu/courses/18-443-statistics-for-applications-spring-2015/pages/lecture-notes/)|
